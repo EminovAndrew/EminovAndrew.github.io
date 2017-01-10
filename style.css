@@ -135,8 +135,7 @@ li {
 }
 .head__container-bottom_main-links .block:nth-child(5) {
   border-right: none;
-  /*padding-left: 4em;
-          padding-right: 0px;*/
+  
 }
 .head__container-bottom_main-links .block a {
   color: #333333;
