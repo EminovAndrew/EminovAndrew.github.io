@@ -113,9 +113,6 @@ li {
   background-image: url(psd/image/back_head-up.png);
   background-repeat: no-repeat;
   background-size: cover;
-  /*border: 1px solid @border-color;
-    border-left: 2px solid @border-color;
-    border-right: 2px solid @border-color;*/
 }
 .head__container-bottom_main-links {
   border: 1px solid #dcdcdc;
